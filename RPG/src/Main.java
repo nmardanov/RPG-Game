@@ -8,6 +8,8 @@ public class Main extends JFrame{
 		aFrame.setSize(screenSize.width, screenSize.height);
 	}
 	
+	//changes
+	
 	public Main () {
 		super("BLOONS");
 		//setSize(WIDTH, HEIGHT);
